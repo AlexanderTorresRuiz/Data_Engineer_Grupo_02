@@ -36,7 +36,7 @@ El proyecto ETL permite:
 ---
 
 ## 🗂️ Estructura del Proyecto
-
+```
 Automatización de Plataformas/
 │
 ├── 📂 entrada/
@@ -62,7 +62,7 @@ Automatización de Plataformas/
 │
 ├── 📂 Script/
 │   └── Script Automatización de datos.ipynb   
-
+```
                      
 ## 👥 Integrantes - Grupo 02
 
