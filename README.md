@@ -34,8 +34,10 @@ El proyecto ETL permite:
 - Git & GitHub 🌍
 
 ---
+## 👨‍💻 Arquitectura de datos
 ![Texto alternativo](https://i.ibb.co/fY9xYF7V/image.jpg)
 
+---
 ## 🗂️ Estructura del Proyecto
 ```
 Automatización de Plataformas/
