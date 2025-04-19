@@ -66,7 +66,17 @@ Automatización de Plataformas/
 ├── 📂 Script/
 │   └── Script Automatización de datos.ipynb   
 ```
-                     
+---
+## 📥 Clonar el repositorio
+```
+git clone https://github.com/AlexanderTorresRuiz/Data_Engineer_Grupo_02.git
+```
+Luego de clonar, navega al proyecto:
+```
+cd Data_Engineer_Grupo_02
+```
+
+---
 ## 👥 Integrantes - Grupo 02
 
   💻 Eduardo Niels Silva Barros
