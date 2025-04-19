@@ -34,6 +34,7 @@ El proyecto ETL permite:
 - Git & GitHub 🌍
 
 ---
+![Texto alternativo](https://i.ibb.co/fY9xYF7V/image.jpg)
 
 ## 🗂️ Estructura del Proyecto
 ```
