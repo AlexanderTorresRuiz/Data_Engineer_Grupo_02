@@ -35,7 +35,7 @@ El proyecto ETL permite:
 
 ---
 ## 👨‍💻 Arquitectura de datos
-![Texto alternativo](https://i.ibb.co/fY9xYF7V/image.jpg)
+![Texto alternativo](https://i.ibb.co/ZznH77fK/image.jpg)
 
 ---
 ## 🗂️ Estructura del Proyecto
